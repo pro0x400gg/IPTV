@@ -1,4 +1,3 @@
-#EXTM3U x-tvg-url="https://epg.erw.cc/all.xml,https://epg.erw.cc/all.xml.gz" catchup="append" catchup-source="?ch={name}&date={date}"
 #央视高清/22个频道
 #EXTM3U
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV1.png" group-title="央视高清",CCTV-1 综合
