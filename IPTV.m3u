@@ -62,7 +62,7 @@ http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807601b19dd/index.m
 #EXTINF:-1 tvg-id="CHC影迷电影" tvg-name="CHC影迷电影" tvg-logo="https://live.fanmingming.com/tv/CHC影迷电影.png" group-title="影视频道",CHC影迷电影
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380764b172c9/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNS8qWmEGeaUedzcFVVumqf9cm8lJoOcrIZueLbqOJTuoPV%2FwBk6CoHYGFV14SkLW04
 #EXTINF:-1 tvg-id="CHC高清电影" tvg-name="CHC高清电影" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CHC1.png" group-title="影视频道",CHC高清电影
-http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380764b172c9/index.m3u8
+http://183.92.4.163:4000/udp/228.0.0.233:6108
 
 #辽宁电视台/8个
 #EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Liaoning.png" group-title="辽宁电视台",辽宁卫视
