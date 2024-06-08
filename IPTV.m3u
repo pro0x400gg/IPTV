@@ -53,9 +53,9 @@ http://[2409:8087:2001:20:2800:0:df6e:eb03]/wh7f454c46tw1981574683_-2118700426/o
 
 #国际频道/9个
 #EXTINF:-1 tvg-id="193" tvg-name="凤凰中文" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Phoenix1.png" group-title="国际时事",凤凰中文
-http://210.210.155.37/uq2663/h/h157/index2.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Phoenix_Chinese
+http://210.210.155.37/uq2663/h/h157/index2.m3u8
 #EXTINF:-1 tvg-id="194" tvg-name="凤凰资讯" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Phoenix2.png" group-title="国际时事",凤凰资讯
-http://175.9.163.25:8989/udp/239.76.246.134:1234
+http://116.162.6.191/1301-txt.otvstream.otvcloud.com/otv/skcc/live/channel52002/index.m3u8
 #EXTINF:-1 tvg-id="284" tvg-name="凤凰香港" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Phoenix3.png" group-title="国际时事",凤凰香港
 http://113.64.145.34:8081/hls/38/index.m3u8
 
