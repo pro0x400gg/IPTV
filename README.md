@@ -40,5 +40,6 @@
 - <a href='https://epg.erw.cc/'>EPG电子节目单</a>
 - <a href='https://github.com/wcb1969/iptv'>M3U源-wcb1969</a>
 - <a href='https://github.com/joevess/IPTV'>M3U源-joevess/IPTV</a>
+- <a href='https://epg.pw/test_channel_page.html'>M3U源-FREE EPG</a>
 - <a href='https://github.com/fanmingming/live/tree/main/tv'>图标地址-live</a>
 - <a href='https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/'>图标地址-wanglindl/TVlogo CDN files</a>
