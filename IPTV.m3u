@@ -6,41 +6,41 @@
 
 #央视高清/18个频道
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV1.png" group-title="央视高清",CCTV1
-http://[2409:8087:74d9:21::9]/270000001128/index.m3u8?cmcc_cid=9900000001
+http://[2409:8087:5e08:24::17]:6610/000000001000/6000000001000029752/1.m3u8?channel-id=wasusyt&Contentid=6000000001000029752&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV2.png" group-title="央视高清",CCTV2
-http://[2409:8087:74d9:21::9]/270000001128/index.m3u8?cmcc_cid=9900000502
+http://[2409:8087:5e08:24::17]:6610/000000001000/6000000001000014161/1.m3u8?channel-id=wasusyt&Contentid=6000000001000014161&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV3.png" group-title="央视高清",CCTV3
-http://[2409:8087:74d9:21::9]/270000001128/index.m3u8?cmcc_cid=9900000003
+http://[2409:8087:5e08:24::17]:6610/000000001000/1000000005000265003/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265003&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV4.png" group-title="央视高清",CCTV4
-http://[2409:8087:74d9:21::9]/270000001128/index.m3u8?cmcc_cid=9900000503
+http://[2409:8087:5e08:24::17]:6610/000000001000/5000000011000031102/1.m3u8?channel-id=bestzb&Contentid=5000000011000031102&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV5.png" group-title="央视高清",CCTV5
-http://[2409:8087:74d9:21::9]/270000001128/index.m3u8?cmcc_cid=9900000005
+http://[2409:8087:5e08:24::17]:6610/000000001000/1000000005000025222/1.m3u8?channel-id=ystenlive&Contentid=1000000005000025222&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="6 tvg-name="CCTV5plus" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV5plus.png" group-title="央视高清",CCTV5+
-http://[2409:8087:74d9:21::9]/270000001128/index.m3u8?cmcc_cid=9900000507
+http://[2409:8087:5e08:24::17]:6610/000000001000/6000000001000015875/1.m3u8?channel-id=wasusyt&Contentid=6000000001000015875&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV6.png" group-title="央视高清",CCTV6
-http://[2409:8087:74d9:21::9]/270000001128/index.m3u8?cmcc_cid=9900000006
+http://[2409:8087:5e08:24::17]:6610/000000001000/6000000001000004574/1.m3u8?channel-id=wasusyt&Contentid=6000000001000004574&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV7.png" group-title="央视高清",CCTV7
-http://[2409:8087:74d9:21::9]/270000001128/index.m3u8?cmcc_cid=9900000504
+http://[2409:8087:5e08:24::17]:6610/000000001000/6000000001000009055/1.m3u8?channel-id=wasusyt&Contentid=6000000001000009055&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV8.png" group-title="央视高清",CCTV8
-http://[2409:8087:74d9:21::9]/270000001128/index.m3u8?cmcc_cid=9900000008
+http://[2409:8087:5e08:24::17]:6610/000000001000/1000000005000265008/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265008&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV9.png" group-title="央视高清",CCTV9
-http://[2409:8087:74d9:21::9]/270000001128/index.m3u8?cmcc_cid=9900000505
+http://[2409:8087:5e08:24::17]:6610/000000001000/6000000001000032162/1.m3u8?channel-id=wasusyt&Contentid=6000000001000032162&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV10.png" group-title="央视高清",CCTV10
-http://[2409:8087:74d9:21::9]/270000001128/index.m3u8?cmcc_cid=9900000506
+http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000026367/1.m3u8
 #EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV11.png" group-title="央视高清",CCTV11
-http://[2409:8087:74d9:21::9]/270000001128/index.m3u8?cmcc_cid=9900000508
+http://[2409:8087:5e08:24::17]:6610/000000001000/5000000011000031106/1.m3u8?channel-id=bestzb&Contentid=5000000011000031106&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV12.png" group-title="央视高清",CCTV12
-http://[2409:8087:74d9:21::9]/270000001128/index.m3u8?cmcc_cid=9900000509
+http://[2409:8087:5e08:24::17]:6610/000000001000/5000000011000031108/1.m3u8?channel-id=bestzb&Contentid=5000000011000031108&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV13.png" group-title="央视高清",CCTV13
-http://[2409:8087:74d9:21::9]/270000001128/index.m3u8?cmcc_cid=9900000510
+http://[2409:8087:5e08:24::17]:6610/000000001000/5000000011000031108/1.m3u8?channel-id=bestzb&Contentid=5000000011000031108&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV14.png" group-title="央视高清",CCTV14
-http://[2409:8087:74d9:21::9]/270000001128/index.m3u8?cmcc_cid=9900000511
+http://[2409:8087:74d9:21::6]:80/270000001322/69900158041111100000002148/index.m3u8
 #EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV15.png" group-title="央视高清",CCTV15
-http://[2409:8087:74d9:21::9]/270000001128/index.m3u8?cmcc_cid=9900000512
+http://[2409:8087:5e08:24::17]:6610/000000001000/5000000011000031109/1.m3u8?channel-id=bestzb&Contentid=5000000011000031109&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV16" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV16.png.png" group-title="央视高清",CCTV16
-http://[2409:8087:74d9:21::9]/270000001128/index.m3u8?cmcc_cid=9900000016
+http://[2409:8087:74f0:22::5]:6410/270000001128/9900000016/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000715
 #EXTINF:-1 tvg-id="18" tvg-name="CCTV17" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV17.png" group-title="央视高清",CCTV17
-http://[2409:8087:74d9:21::9]/270000001128/index.m3u8?cmcc_cid=9900000513
+http://[2409:8087:5e08:24::17]:6610/000000001000/1000000005000265015/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265015&livemode=1&stbId=3
 
 
 #东北电视台/13个
