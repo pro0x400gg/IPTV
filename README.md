@@ -36,6 +36,7 @@
 ## 特别鸣谢
 - <a href='https://github.com/Kimentanm/aptv'>APTV</a>
 - <a href='https://github.com/nonomal/Meroser_IPTV?tab=readme-ov-file'>Meroser_IPTV</a>
+- <a href='https://github.com/suxuang/myIPTV'>myIPTV</a>
 - <a href='https://epg.erw.cc/'>EPG电子节目单</a>
 - <a href='https://github.com/wcb1969/iptv'>M3U源-wcb1969</a>
 - <a href='https://github.com/joevess/IPTV'>M3U源-joevess/IPTV</a>
